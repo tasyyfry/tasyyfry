@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tasyyfry
-- 👀 I’m interested in UI/UX Design d=and Front-End Developer
+- 👀 I’m interested in UI/UX Design and Front-End Developer
 - 🌱 I’m currently learning about UI/UX Design, HTML. CSS, Javascript, PHP, Java, Phyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
